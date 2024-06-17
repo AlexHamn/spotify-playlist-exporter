@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 spotipy = "*"
 pandas = "*"
+openpyxl = "*"
 
 [dev-packages]
 
